@@ -10,7 +10,7 @@ A tecnologia me move, e atualmente divido minha rotina entre a análise de dados
 - 💻 Atuo como **Business Analyst**, lidando com dados e automações no dia a dia.
 - 🎨 Apaixonado por **Front-End Development & UX/UI Design** — transformando ideias no Figma em código limpo.
 - ⚡ Foco atual: Desenvolver minhas habilidades em **Python**, aperfeiçoar metodologias de estudo e otimizar fluxos de trabalho com ferramentas de automação (como n8n e webhooks).
-- ⏱️ Curiosidade: Gosto de trabalhar e estudar usando blocos de foco (Pomodoro) para manter a produtividade no talo!
+- ⏱️ Curiosidade: Gosto de trabalhar e estudar usando blocos de foco (Pomodoro) para manter a produtividade.
 
 ---
 
