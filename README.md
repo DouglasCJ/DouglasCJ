@@ -24,12 +24,6 @@ A tecnologia me move, e atualmente divido minha rotina entre a análise de dados
 
 ---
 
-### 📊 Meu Setup & Interesses
-
-Nas horas vagas, você me encontra descobrindo novas músicas no Spotify, assistindo a algum filme com uma boa pipoca, jogando ou resolvendo algum mistério de hardware (sim, fã de manutenção e upgrades de PCs!).
-
----
-
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-caique/)
