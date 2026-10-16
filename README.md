@@ -18,7 +18,7 @@ A tecnologia me move, e atualmente divido minha rotina entre a análise de dados
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Stacks** | Python, HTML5, CSS3, JavaScript, WordPress |
+| **Stacks** | Python, HTML5, CSS3, JavaScript, React, | 
 | **Design / UX** | Figma (Layouts, Prototipagem, UI Design) |
 | **Automação / Ferramentas** | n8n, Webhooks, Git, GitHub, Vercel, Netlify |
 
