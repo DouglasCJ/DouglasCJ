@@ -1,26 +1,35 @@
 # Olá, eu sou o Douglas! 👋
 
-A tecnologia me move, e atualmente divido minha rotina entre a análise de dados no ambiente corporativo e a criação de interfaces modernas, funcionais e focadas na experiência do usuário. Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou sempre buscando evoluir minhas habilidades no ecossistema de tecnologia.
+A tecnologia me move através da construção de arquiteturas escaláveis, automações inteligentes e soluções orientadas a dados. Atualmente atuo como **Business Analyst** no ambiente corporativo, unindo visão estratégica de negócios com **Cloud Computing**, **Inteligência Artificial** e **Desenvolvimento de Software** para otimizar processos e construir aplicações modernas de ponta a ponta.
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (Cruzeiro do Sul)
-- 💻 Atuo como **Business Analyst**, lidando com dados e automações no dia a dia.
-- 🎨 Apaixonado por **Front-End Development & UX/UI Design** — transformando ideias no Figma em código limpo.
-- ⚡ Foco atual: Desenvolver minhas habilidades em **Python**, aperfeiçoar metodologias de estudo e otimizar fluxos de trabalho com ferramentas de automação (como n8n e webhooks).
-- ⏱️ Curiosidade: Gosto de trabalhar e estudar usando blocos de foco (Pomodoro) para manter a produtividade.
+- ☁️ **Foco de Carreira:** Direcionando minha trajetória para **Cloud Engineering** (ecossistema **Microsoft Azure**), com foco em infraestrutura moderna, deploy de aplicações, gerenciamento de recursos e segurança na nuvem.
+- 🤖 **IA & Automação:** Experiência prática na criação de fluxos inteligentes e integrações de sistemas utilizando **Python**, **n8n**, **Webhooks** e **APIs de IA / LLMs** para automatizar processos complexos.
+- 📊 **Visão de Negócios & Dados:** Atuação sólida como **Business Analyst**, traduzindo regras de negócio críticas e grandes volumes de dados em soluções tecnológicas eficientes.
+- 💻 **Background em Desenvolvimento:** Conhecimento prático em **React, JavaScript e Tailwind CSS**, permitindo transitar facilmente entre a infraestrutura em nuvem e a camada de aplicação (Front-End).
+- 🎓 **Formação:** Graduando em **Análise e Desenvolvimento de Sistemas** pela Universidade Cruzeiro do Sul.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
+| Categoria | Tecnologias & Ecossistema |
 | :--- | :--- |
-| **Stacks** | Python, HTML5, CSS3, JavaScript, React | 
-| **Design / UX** | Figma (Layouts, Prototipagem, UI Design) |
-| **Automação / Ferramentas** | n8n, Webhooks, Git, GitHub, Vercel, Netlify |
+| **Cloud & Deploy** | Microsoft Azure, Git, GitHub, CI/CD, Vercel, Netlify |
+| **IA & Automação** | Python, n8n, Integração de LLMs / IA Generativa, REST APIs, Webhooks |
+| **Desenvolvimento Web** | React, JavaScript (ES6+), Vite, Tailwind CSS, HTML5, CSS3 |
+| **Dados & Negócios** | Análise de Dados, Automação de Processos, Modelagem de Fluxos, UI/UX (Figma) |
+
+---
+
+### 🎯 Foco Atual e Estudos
+
+- 🏆 Preparação contínua para certificações **Microsoft Azure (AZ-900 / AZ-104 / AZ-204)**.
+- ⚙️ Desenvolvimento de arquiteturas integrando **automação de fluxos (n8n + Python)** com agentes de **Inteligência Artificial**.
+- 🚀 Construção de aplicações escaláveis integrando Front-End moderno a serviços em nuvem.
 
 ---
 
